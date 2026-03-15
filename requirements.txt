@@ -1,0 +1,9 @@
+ipykernel==7.2.0
+matplotlib==3.10.8
+numpy==2.4.3
+pandas==3.0.1
+seaborn==0.13.2
+tensorflow==2.21.0
+nvidia-cudnn-cu12==9.3.0.75
+tf-nightly==2.22.0.dev20260314
+scikit-learn==1.8.0
